@@ -1,2 +1,2 @@
 # YETI
-YETI: discovering hidden phYsics bEhind Transport dynamIcs
+This is the repository for our paper "Discovering Hidden Physics Behind Transport Dynamics".
