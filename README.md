@@ -1,6 +1,6 @@
 # YETI: discovering hidden phYsics bEhind Transport dynamIcs
 
-(In preparation, to appear before June 2021)
+(In preparation, to appear soon)
 
 This repository contains the code, simulated dataset, and experiments for our papers:
 
