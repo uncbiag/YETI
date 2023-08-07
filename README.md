@@ -1,6 +1,7 @@
 # YETI: discovering hidden phYsics bEhind Transport dynamIcs
 
-(In preparation, to appear soon)
+
+Please refer to the newest version at https://github.com/uncbiag/D2-SONATA.
 
 This repository contains the code, simulated dataset, and experiments for our papers:
 
